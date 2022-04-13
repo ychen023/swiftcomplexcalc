@@ -3,7 +3,12 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/yilinchen/Desktop/swiftcomplexcalc/ComplexCalc.playground#CharacterRangeLen=25&amp;CharacterRangeLoc=2923&amp;EndingColumnNumber=91&amp;EndingLineNumber=106&amp;StartingColumnNumber=66&amp;StartingLineNumber=106&amp;Timestamp=671511025.370393"
+         documentLocation = "file:///Users/yilinchen/Desktop/swiftcomplexcalc/ComplexCalc.playground#CharacterRangeLen=25&amp;CharacterRangeLoc=2923&amp;EndingColumnNumber=91&amp;EndingLineNumber=106&amp;StartingColumnNumber=66&amp;StartingLineNumber=106&amp;Timestamp=671517251.910247"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/yilinchen/Desktop/swiftcomplexcalc/ComplexCalc.playground#CharacterRangeLen=21&amp;CharacterRangeLoc=3056&amp;EndingColumnNumber=58&amp;EndingLineNumber=108&amp;StartingColumnNumber=37&amp;StartingLineNumber=108&amp;Timestamp=671517251.910464"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
