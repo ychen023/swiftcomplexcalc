@@ -2,5 +2,10 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/yilinchen/Desktop/swiftcomplexcalc/ComplexCalc.playground#CharacterRangeLen=25&amp;CharacterRangeLoc=2923&amp;EndingColumnNumber=91&amp;EndingLineNumber=106&amp;StartingColumnNumber=66&amp;StartingLineNumber=106&amp;Timestamp=671511025.370393"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
